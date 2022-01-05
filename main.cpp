@@ -48,7 +48,7 @@ int main(){
 		
 		//Step 2: add every odd placed digit from right to doubleEvenSum's value
 		
-		for(int i = len - 1; i >= 0; i = 1 - 2){
+		for(int i = len - 1; i >= 0; i = i - 2){
 			doubleEvenSum += (creditcard[i] - 48);
 		}
 		
