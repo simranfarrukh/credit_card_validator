@@ -1,5 +1,6 @@
-// Credit Card Validator
-// @author Simran
+/* Credit Card Validator
+ * @author Simran
+ */
 
 #include <stdio.h>
 #include <iostream>
