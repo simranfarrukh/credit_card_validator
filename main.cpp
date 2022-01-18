@@ -1,3 +1,6 @@
+// Credit Card Validator
+// @author Simran
+
 #include <stdio.h>
 #include <iostream>
 #include <string>
